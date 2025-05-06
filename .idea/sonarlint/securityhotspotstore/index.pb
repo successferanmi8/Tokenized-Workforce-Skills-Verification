@@ -5,3 +5,7 @@ T
 $contracts/identity-verification.clar,6/3/63627d2e05688d155fd361be7f5c89242e6c4fdd
 T
 $contracts/experience-validation.clar,0/b/0bc241ea534968bf8d35fe05a253c4308e45d78e
+R
+"contracts/skill-certification.clar,1/e/1e7c69aee38087ce367014808e3496384ffb84cd
+T
+$contracts/training-verification.clar,7/f/7fa57a873c97c4a7f4768f5bbf326e13f4c75183
